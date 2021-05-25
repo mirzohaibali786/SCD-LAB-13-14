@@ -35,7 +35,7 @@ public class Test {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 545	, 236);
+		frame.setBounds(100, 200, 545	, 236);
 		frame.getContentPane().setBackground(Color.white);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
